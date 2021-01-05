@@ -1,0 +1,11 @@
+
+
+https://coding-challenge.festo.com/blog/images/mouse_and_keyboard.jpg
++
+https://coding-challenge.festo.com/blog/images/screen.jpg (url have to be guessed according to the blog text)
+
+=> https://github.com/fin-der-lohn/
+
+=> https://github.com/fin-der-lohn/coding-challenge2020/commit/8248eec3601e7fe1baf3985916f84fc70f00a34f
+
+Solution : 1337potato
